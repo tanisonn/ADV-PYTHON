@@ -1,0 +1,9 @@
+2024-06-12 16:53:28,466:CRITICAL:This is Critical message:
+2024-06-12 16:53:28,467:ERROR:This is error message
+2024-06-12 16:53:28,467:WARNING:This is warning message
+12/06/2024 17:00:1718191808:CRITICAL:This is Critical message:
+12/06/2024 17:00:1718191808:ERROR:This is error message
+12/06/2024 17:00:1718191808:WARNING:This is warning message
+12/06/2024 17:00:48:CRITICAL:This is Critical message:
+12/06/2024 17:00:48:ERROR:This is error message
+12/06/2024 17:00:48:WARNING:This is warning message

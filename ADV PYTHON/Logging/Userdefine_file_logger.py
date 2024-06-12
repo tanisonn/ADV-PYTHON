@@ -1,0 +1,13 @@
+import logging
+logger=logging.getLogger("Tanishq")
+logger.setLevel(logging.DEBUG)
+handler=logging.FileHandler("userdefined_Logging_file.txt",mode="a")
+handler.setLevel(logging.WARNING)
+formatter=logging.Formatter("%(asctime)s:%(name)s:%(levelname)s:%(message)s",datefmt="%d/%m/%Y %H:%M:%S")
+handler.setFormatter(formatter)
+logger.addHandler(handler)
+logger.critical("tHIS IS CRITICAL MESSAGE")
+logger.error("this is error message")
+logger.warning("this is warning message")
+logger.info("this is info message")
+logger.debug("this is debug message")

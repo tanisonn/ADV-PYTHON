@@ -1,0 +1,6 @@
+CRITICAL:This is Critical message:
+ERROR:This is error message
+WARNING:This is warning message
+CRITICAL:This is Critical message:
+ERROR:This is error message
+WARNING:This is warning message

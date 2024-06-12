@@ -1,0 +1,3 @@
+2024-06-12 20:18:21,961:Tanishq:CRITICAL:This is critical from f1
+2024-06-12 20:18:21,961:Tanishq:ERROR:This is error from f1
+2024-06-12 20:18:21,961:Tanishq:WARNING:This is warning from f1

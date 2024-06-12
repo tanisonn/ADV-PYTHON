@@ -1,0 +1,4 @@
+12/06/2024 19:05:15:Tanison:CRITICAL:tHIS IS CRITICAL MESSAGE from logger 2
+12/06/2024 19:05:15:Tanison:ERROR:this is error message from logger2
+12/06/2024 19:05:15:Tanison:WARNING:this is warning message form logger 2
+12/06/2024 19:05:15:Tanison:INFO:this is info message from logger 2

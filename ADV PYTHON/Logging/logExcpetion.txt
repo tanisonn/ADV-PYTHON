@@ -1,0 +1,16 @@
+12/06/2024 05:22:33 PM:INFO:A User used our application
+12/06/2024 05:22:38 PM:INFO:The user successfully used our application
+12/06/2024 05:22:48 PM:INFO:A User used our application
+12/06/2024 05:22:50 PM:ERROR:invalid literal for int() with base 10: 'ten'
+Traceback (most recent call last):
+  File "/home/neo/Desktop/DSA/adv python/Logging/Logging_with_excption_handling.py", line 5, in <module>
+    a=int(input("Enter the first number:"))
+ValueError: invalid literal for int() with base 10: 'ten'
+12/06/2024 05:22:50 PM:INFO:The user successfully used our application
+12/06/2024 05:23:34 PM:INFO:A User used our application
+12/06/2024 05:23:37 PM:ERROR:division by zero
+Traceback (most recent call last):
+  File "/home/neo/Desktop/DSA/adv python/Logging/Logging_with_excption_handling.py", line 7, in <module>
+    print("The result of a/b is",a/b)
+ZeroDivisionError: division by zero
+12/06/2024 05:23:37 PM:INFO:The user successfully used our application

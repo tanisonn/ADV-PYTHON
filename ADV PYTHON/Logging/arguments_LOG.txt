@@ -1,0 +1,6 @@
+time:2024-06-12 16:49:06,500:CRITICAL:50:This is Critical message::process-id:662150:line-NO:3
+time:2024-06-12 16:49:06,501:ERROR:40:This is error message:process-id:662150:line-NO:4
+time:2024-06-12 16:49:06,501:WARNING:30:This is warning message:process-id:662150:line-NO:5
+time:2024-06-12 16:50:14,661:CRITICAL:50:This is Critical message::process-id:662777:line-NO:3:Module:Logging_arguments
+time:2024-06-12 16:50:14,661:ERROR:40:This is error message:process-id:662777:line-NO:4:Module:Logging_arguments
+time:2024-06-12 16:50:14,661:WARNING:30:This is warning message:process-id:662777:line-NO:5:Module:Logging_arguments
